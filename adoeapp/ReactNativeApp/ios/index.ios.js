@@ -7,7 +7,7 @@ import configureStore       from '../common/redux/store/configureStore';
 
 const store = configureStore();
 
-class reactNativeReduxSidemenuTabbarStarter extends Component {
+class lisaStarter extends Component {
   render() {
     return (
       <Provider store={store}>
@@ -17,4 +17,4 @@ class reactNativeReduxSidemenuTabbarStarter extends Component {
   }
 }
 
-export default reactNativeReduxSidemenuTabbarStarter;
+export default lisaStarter;
