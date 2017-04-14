@@ -16,7 +16,7 @@ import {
   ListView,
 } from 'react-native';
 
-// import lisaStarter from './ReactNativeApp/ios/index.ios.js';
+// import reactNativeReduxSidemenuTabbarStarter from './ReactNativeApp/ios/index.ios.js';
 
 
 var Welcome = require('./appViews/Welcome');
